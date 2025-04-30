@@ -25,9 +25,7 @@ A data-driven web application that scrapes remote job listings using **Selenium*
 - `matplotlib`, `pandas`, `wordcloud`
 
 ### 📁 Project Structure
-
-'''
-job-market-trend-analyzer/ ├── analyzer.py # Skill analysis logic
+```job-market-trend-analyzer/ ├── analyzer.py # Skill analysis logic
 ├── dashboard.py # Streamlit UI code
 ├── scraper.py # Selenium job scraper (multi-source capable)
 ├── requirements.txt # Python dependencies
@@ -38,4 +36,5 @@ job-market-trend-analyzer/ ├── analyzer.py # Skill analysis logic
 └── .github/
 └── workflows/
 └── deploy.yaml # GitHub Actions workflow
-'''
+```
+
