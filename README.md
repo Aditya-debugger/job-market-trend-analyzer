@@ -24,4 +24,18 @@ A data-driven web application that scrapes remote job listings using **Selenium*
 - `BeautifulSoup` (HTML parsing)
 - `matplotlib`, `pandas`, `wordcloud`
 
-<pre> ### 📁 Project Structure ``` job-market-trend-analyzer/ │ ├── analyzer.py # Skill analysis logic ├── dashboard.py # Streamlit UI code ├── scraper.py # Selenium job scraper (multi-source capable) ├── requirements.txt # Python dependencies ├── README.md # Project overview and usage ├── data/ │ └── jobs.csv # Scraped job listings (auto-generated) ├── .gitignore └── .github/ └── workflows/ └── deploy.yaml # GitHub Actions workflow ``` </pre>
+### 📁 Project Structure
+
+'''
+job-market-trend-analyzer/ ├── analyzer.py # Skill analysis logic
+├── dashboard.py # Streamlit UI code
+├── scraper.py # Selenium job scraper (multi-source capable)
+├── requirements.txt # Python dependencies
+├── README.md # Project overview and usage
+├── data/
+│ └── jobs.csv # Scraped job listings (auto-generated)
+├── .gitignore
+└── .github/
+└── workflows/
+└── deploy.yaml # GitHub Actions workflow
+'''
