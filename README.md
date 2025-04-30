@@ -13,8 +13,13 @@ A data-driven web application that scrapes remote job listings using **Selenium*
 
 ## 🌐 Data Sources
 
-- [RemoteOK](https://remoteok.com)
-- (Add other job boards here as you integrate them)
+- [RemoteOK]Remote tech and developer jobs (https://remoteok.com)
+
+
+(Planned/Coming Soon):
+- Indeed
+- LinkedIn Jobs
+- Glassdoor
 
 ## 📦 Technologies Used
 
